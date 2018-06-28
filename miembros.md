@@ -18,3 +18,5 @@
 * Wasp
 * Antman
 * Nick Fury
+* A new man
+* New Change
